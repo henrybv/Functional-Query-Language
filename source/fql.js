@@ -45,7 +45,6 @@ FQL.prototype.limit = function(num){
   return this;
 }
 
-
 // Table.prototype.each = function(myFunc,continuePredicate) {
 //   for(var i = 0; i < this.rows.length; i++) {
 //       myFunc(this.rows[i]);
